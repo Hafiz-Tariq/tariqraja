@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "client": "Hassan Textiles",
+    "desc": "Summer floral kurta fabric",
+    "length": 120,
+    "sell": 270,
+    "services": {
+      "fabric": true,
+      "design": true,
+      "print": false
+    },
+    "status": "In Progress",
+    "createdAt": "2026-06-10T10:00:00.000Z",
+    "invoiceNumber": "INV-2026-001"
+  },
+  {
+    "id": 2,
+    "client": "Zara Boutique",
+    "desc": "Embroidered chiffon collection",
+    "length": 80,
+    "sell": 380,
+    "services": {
+      "fabric": true,
+      "design": false,
+      "print": true
+    },
+    "status": "Pending",
+    "createdAt": "2026-06-11T14:30:00.000Z",
+    "invoiceNumber": "INV-2026-002"
+  },
+  {
+    "id": 3,
+    "client": "Sana Safinaz",
+    "desc": "Lawn print collection",
+    "length": 200,
+    "sell": 450,
+    "services": {
+      "fabric": true,
+      "design": false,
+      "print": false
+    },
+    "status": "Pending",
+    "createdAt": "2026-06-12T08:15:00.000Z",
+    "invoiceNumber": "INV-2026-003"
+  },
+  {
+    "id": 4,
+    "client": "Al-Karam Studio",
+    "desc": "Linen jacquard weave",
+    "length": 50,
+    "sell": 600,
+    "services": {
+      "fabric": true,
+      "design": true,
+      "print": true
+    },
+    "status": "Completed",
+    "createdAt": "2026-06-08T09:00:00.000Z",
+    "invoiceNumber": "INV-2026-004"
+  },
+  {
+    "id": 5,
+    "client": "Gul Ahmed",
+    "desc": "Cotton voile prints",
+    "length": 300,
+    "sell": 150,
+    "services": {
+      "fabric": false,
+      "design": false,
+      "print": true
+    },
+    "status": "In Progress",
+    "createdAt": "2026-06-09T16:45:00.000Z",
+    "invoiceNumber": "INV-2026-005"
+  }
+]

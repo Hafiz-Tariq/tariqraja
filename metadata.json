@@ -1,0 +1,6 @@
+{
+  "name": "FabricFlow",
+  "description": "Textile Order Manager with backend API integration, order filters, and print-ready invoice Generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
